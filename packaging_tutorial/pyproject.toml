@@ -18,3 +18,7 @@ classifiers - [
 ]
 
 [project.urls]
+"Homepage" = "https://github.com/bravegrumpy/very_simple_package"
+"Package Sourcecode" = "https://github.com/bravegrumpy/very_simple_package/tree/main/packaging_tutorial"
+"Project Wiki" = "https://github.com/bravegrumpy/very_simple_package/wiki"
+"Bug Tracker" = "https://github.com/bravegrumpy/very_simple_package/issues"
