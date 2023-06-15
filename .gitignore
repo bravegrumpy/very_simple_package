@@ -1,2 +1,6 @@
 # Ignoring virtual Environments
 env/
+
+# Ignoring compiled files
+*.pyc
+__pycache__
