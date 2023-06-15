@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: very-simple-package-braveGrumpy
+Version: 0.0.1
+Summary: A small example package, including a basic arithmetic class that can add and multiply
+Author-email: Brave Grumpy <code@bravegumpy.com>
+Project-URL: Homepage, https://github.com/bravegrumpy/very_simple_package
+Project-URL: Package Sourcecode, https://github.com/bravegrumpy/very_simple_package/tree/main/packaging_tutorial
+Project-URL: Project Wiki, https://github.com/bravegrumpy/very_simple_package/wiki
+Project-URL: Bug Tracker, https://github.com/bravegrumpy/very_simple_package/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independant
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Simple Tutorial Package
+
+This is a very simple package with the purpose of learning how to publish a package to PyPi.
+
+I am following the [Python.org Packaging Tutorial]("https://packaging.python.org/en/latest/tutorials/packaging-projects/")
+
+## Contents
+
+This package is very simple.
+The package is called "very_simple_backage_braveGrumpy"
+
+The only functionality is a class called `Arithmetic`, which adds and multiplies.
+
+It is written to be extendable into factorials. 
+
+## Changelog
+
+This is where I plan on changing things after publishing.

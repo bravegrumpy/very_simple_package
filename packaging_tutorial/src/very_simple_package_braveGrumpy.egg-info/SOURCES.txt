@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/very_simple_package_braveGrumpy/__init__.py
+src/very_simple_package_braveGrumpy/basic_arithmetic.py
+src/very_simple_package_braveGrumpy.egg-info/PKG-INFO
+src/very_simple_package_braveGrumpy.egg-info/SOURCES.txt
+src/very_simple_package_braveGrumpy.egg-info/dependency_links.txt
+src/very_simple_package_braveGrumpy.egg-info/top_level.txt
