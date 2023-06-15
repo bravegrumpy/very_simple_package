@@ -4,3 +4,6 @@ env/
 # Ignoring compiled files
 *.pyc
 __pycache__
+
+# Keeping API Token Private
+API_TOKENS.txt
