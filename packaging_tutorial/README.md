@@ -15,4 +15,5 @@ It is written to be extendable into factorials.
 
 ## Changelog
 
-This is where I plan on changing things after publishing.
+- 0.0.2 -- Adding in Sphinx documentation, and docstrings
+- 0.0.1 -- Initial Release

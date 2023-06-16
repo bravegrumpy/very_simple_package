@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "very_simple_package_braveGrumpy"
-version = "0.0.1"
+version = "0.0.3"
 authors = [
     { name="Brave Grumpy", email="code@bravegumpy.com" },
 ]

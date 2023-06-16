@@ -1,6 +1,6 @@
 # Ignoring virtual Environments
 env/
-
+buildEnv/
 # Ignoring compiled files
 *.pyc
 __pycache__
